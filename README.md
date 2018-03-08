@@ -1,4 +1,4 @@
-[Kangle](http://bbs.itzmx.com/thread-7232-1-1.html)
+[Kangle](http://www.tayi.me)
 =======
 最低配置安装需求
 本教程至少需要以下配置进行安装
